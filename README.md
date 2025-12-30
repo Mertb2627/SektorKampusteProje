@@ -124,3 +124,6 @@ Sektör Kampüste Projesi
 
 
 
+## 📸 Uygulama Ekran Görüntüsü
+
+![Uygulama Arayüzü](UygulamaciGoruntu.png)
